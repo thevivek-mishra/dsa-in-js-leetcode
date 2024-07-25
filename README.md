@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
