@@ -25,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0605-can-place-flowers) |
+## String
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
