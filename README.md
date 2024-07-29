@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -33,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
