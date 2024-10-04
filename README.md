@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -48,4 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
