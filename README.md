@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0605-can-place-flowers) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
