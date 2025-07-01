@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0605-can-place-flowers) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0443-string-compression) |
@@ -79,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/thevivek-mishra/dsa-in-js-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
